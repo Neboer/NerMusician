@@ -1,0 +1,530 @@
+[
+  {
+    "midi": 108,
+    "piano_key": 88,
+    "note_name": "C8",
+    "frequency": 4186.01
+  },
+  {
+    "midi": 107,
+    "piano_key": 87,
+    "note_name": "B7",
+    "frequency": 3951.07
+  },
+  {
+    "midi": 106,
+    "piano_key": 86,
+    "note_name": "A#7/Bb7",
+    "frequency": 3729.31
+  },
+  {
+    "midi": 105,
+    "piano_key": 85,
+    "note_name": "A7",
+    "frequency": 3520
+  },
+  {
+    "midi": 104,
+    "piano_key": 84,
+    "note_name": "G#7/Ab7",
+    "frequency": 3322.44
+  },
+  {
+    "midi": 103,
+    "piano_key": 83,
+    "note_name": "G7",
+    "frequency": 3135.96
+  },
+  {
+    "midi": 102,
+    "piano_key": 82,
+    "note_name": "F#7/Gb7",
+    "frequency": 2959.96
+  },
+  {
+    "midi": 101,
+    "piano_key": 81,
+    "note_name": "F7",
+    "frequency": 2793.83
+  },
+  {
+    "midi": 100,
+    "piano_key": 80,
+    "note_name": "E7",
+    "frequency": 2637.02
+  },
+  {
+    "midi": 99,
+    "piano_key": 79,
+    "note_name": "D#7/Eb7",
+    "frequency": 2489.02
+  },
+  {
+    "midi": 98,
+    "piano_key": 78,
+    "note_name": "D7",
+    "frequency": 2349.32
+  },
+  {
+    "midi": 97,
+    "piano_key": 77,
+    "note_name": "C#7/Db7",
+    "frequency": 2217.46
+  },
+  {
+    "midi": 96,
+    "piano_key": 76,
+    "note_name": "C7",
+    "frequency": 2093
+  },
+  {
+    "midi": 95,
+    "piano_key": 75,
+    "note_name": "B6",
+    "frequency": 1975.53
+  },
+  {
+    "midi": 94,
+    "piano_key": 74,
+    "note_name": "A#6/Bb6",
+    "frequency": 1864.66
+  },
+  {
+    "midi": 93,
+    "piano_key": 73,
+    "note_name": "A6",
+    "frequency": 1760
+  },
+  {
+    "midi": 92,
+    "piano_key": 72,
+    "note_name": "G#6/Ab6",
+    "frequency": 1661.22
+  },
+  {
+    "midi": 91,
+    "piano_key": 71,
+    "note_name": "G6",
+    "frequency": 1567.98
+  },
+  {
+    "midi": 90,
+    "piano_key": 70,
+    "note_name": "F#6/Gb6",
+    "frequency": 1479.98
+  },
+  {
+    "midi": 89,
+    "piano_key": 69,
+    "note_name": "F6",
+    "frequency": 1396.91
+  },
+  {
+    "midi": 88,
+    "piano_key": 68,
+    "note_name": "E6",
+    "frequency": 1318.51
+  },
+  {
+    "midi": 87,
+    "piano_key": 67,
+    "note_name": "D#6/Eb6",
+    "frequency": 1244.51
+  },
+  {
+    "midi": 86,
+    "piano_key": 66,
+    "note_name": "D6",
+    "frequency": 1174.66
+  },
+  {
+    "midi": 85,
+    "piano_key": 65,
+    "note_name": "C#6/Db6",
+    "frequency": 1108.73
+  },
+  {
+    "midi": 84,
+    "piano_key": 64,
+    "note_name": "C6",
+    "frequency": 1046.5
+  },
+  {
+    "midi": 83,
+    "piano_key": 63,
+    "note_name": "B5",
+    "frequency": 987.77
+  },
+  {
+    "midi": 82,
+    "piano_key": 62,
+    "note_name": "A#5/Bb5",
+    "frequency": 932.33
+  },
+  {
+    "midi": 81,
+    "piano_key": 61,
+    "note_name": "A5",
+    "frequency": 880
+  },
+  {
+    "midi": 80,
+    "piano_key": 60,
+    "note_name": "G#5/Ab5",
+    "frequency": 830.61
+  },
+  {
+    "midi": 79,
+    "piano_key": 59,
+    "note_name": "G5",
+    "frequency": 783.99
+  },
+  {
+    "midi": 78,
+    "piano_key": 58,
+    "note_name": "F#5/Gb5",
+    "frequency": 739.99
+  },
+  {
+    "midi": 77,
+    "piano_key": 57,
+    "note_name": "F5",
+    "frequency": 698.46
+  },
+  {
+    "midi": 76,
+    "piano_key": 56,
+    "note_name": "E5",
+    "frequency": 659.26
+  },
+  {
+    "midi": 75,
+    "piano_key": 55,
+    "note_name": "D#5/Eb5",
+    "frequency": 622.25
+  },
+  {
+    "midi": 74,
+    "piano_key": 54,
+    "note_name": "D5",
+    "frequency": 587.33
+  },
+  {
+    "midi": 73,
+    "piano_key": 53,
+    "note_name": "C#5/Db5",
+    "frequency": 554.37
+  },
+  {
+    "midi": 72,
+    "piano_key": 52,
+    "note_name": "C5",
+    "frequency": 523.25
+  },
+  {
+    "midi": 71,
+    "piano_key": 51,
+    "note_name": "B4",
+    "frequency": 493.88
+  },
+  {
+    "midi": 70,
+    "piano_key": 50,
+    "note_name": "A#4/Bb4",
+    "frequency": 466.16
+  },
+  {
+    "midi": 69,
+    "piano_key": 49,
+    "note_name": "A4 concert pitch",
+    "frequency": 440
+  },
+  {
+    "midi": 68,
+    "piano_key": 48,
+    "note_name": "G#4/Ab4",
+    "frequency": 415.3
+  },
+  {
+    "midi": 67,
+    "piano_key": 47,
+    "note_name": "G4",
+    "frequency": 392
+  },
+  {
+    "midi": 66,
+    "piano_key": 46,
+    "note_name": "F#4/Gb4",
+    "frequency": 369.99
+  },
+  {
+    "midi": 65,
+    "piano_key": 45,
+    "note_name": "F4",
+    "frequency": 349.23
+  },
+  {
+    "midi": 64,
+    "piano_key": 44,
+    "note_name": "E4",
+    "frequency": 329.63
+  },
+  {
+    "midi": 63,
+    "piano_key": 43,
+    "note_name": "D#4/Eb4",
+    "frequency": 311.13
+  },
+  {
+    "midi": 62,
+    "piano_key": 42,
+    "note_name": "D4",
+    "frequency": 293.66
+  },
+  {
+    "midi": 61,
+    "piano_key": 41,
+    "note_name": "C#4/Db4",
+    "frequency": 277.18
+  },
+  {
+    "midi": 60,
+    "piano_key": 40,
+    "note_name": "C4 (middle C)",
+    "frequency": 261.63
+  },
+  {
+    "midi": 59,
+    "piano_key": 39,
+    "note_name": "B3",
+    "frequency": 246.94
+  },
+  {
+    "midi": 58,
+    "piano_key": 38,
+    "note_name": "A#3/Bb3",
+    "frequency": 233.08
+  },
+  {
+    "midi": 57,
+    "piano_key": 37,
+    "note_name": "A3",
+    "frequency": 220
+  },
+  {
+    "midi": 56,
+    "piano_key": 36,
+    "note_name": "G#3/Ab3",
+    "frequency": 207.65
+  },
+  {
+    "midi": 55,
+    "piano_key": 35,
+    "note_name": "G3",
+    "frequency": 196
+  },
+  {
+    "midi": 54,
+    "piano_key": 34,
+    "note_name": "F#3/Gb3",
+    "frequency": 185
+  },
+  {
+    "midi": 53,
+    "piano_key": 33,
+    "note_name": "F3",
+    "frequency": 174.61
+  },
+  {
+    "midi": 52,
+    "piano_key": 32,
+    "note_name": "E3",
+    "frequency": 164.81
+  },
+  {
+    "midi": 51,
+    "piano_key": 31,
+    "note_name": "D#3/Eb3",
+    "frequency": 155.56
+  },
+  {
+    "midi": 50,
+    "piano_key": 30,
+    "note_name": "D3",
+    "frequency": 146.83
+  },
+  {
+    "midi": 49,
+    "piano_key": 29,
+    "note_name": "C#3/Db3",
+    "frequency": 138.59
+  },
+  {
+    "midi": 48,
+    "piano_key": 28,
+    "note_name": "C3",
+    "frequency": 130.81
+  },
+  {
+    "midi": 47,
+    "piano_key": 27,
+    "note_name": "B2",
+    "frequency": 123.47
+  },
+  {
+    "midi": 46,
+    "piano_key": 26,
+    "note_name": "A#2/Bb2",
+    "frequency": 116.54
+  },
+  {
+    "midi": 45,
+    "piano_key": 25,
+    "note_name": "A2",
+    "frequency": 110
+  },
+  {
+    "midi": 44,
+    "piano_key": 24,
+    "note_name": "G#2/Ab2",
+    "frequency": 103.83
+  },
+  {
+    "midi": 43,
+    "piano_key": 23,
+    "note_name": "G2",
+    "frequency": 98
+  },
+  {
+    "midi": 42,
+    "piano_key": 22,
+    "note_name": "F#2/Gb2",
+    "frequency": 92.5
+  },
+  {
+    "midi": 41,
+    "piano_key": 21,
+    "note_name": "F2",
+    "frequency": 87.31
+  },
+  {
+    "midi": 40,
+    "piano_key": 20,
+    "note_name": "E2",
+    "frequency": 82.41
+  },
+  {
+    "midi": 39,
+    "piano_key": 19,
+    "note_name": "D#2/Eb2",
+    "frequency": 77.78
+  },
+  {
+    "midi": 38,
+    "piano_key": 18,
+    "note_name": "D2",
+    "frequency": 73.42
+  },
+  {
+    "midi": 37,
+    "piano_key": 17,
+    "note_name": "C#2/Db2",
+    "frequency": 69.3
+  },
+  {
+    "midi": 36,
+    "piano_key": 16,
+    "note_name": "C2",
+    "frequency": 65.41
+  },
+  {
+    "midi": 35,
+    "piano_key": 15,
+    "note_name": "B1",
+    "frequency": 61.74
+  },
+  {
+    "midi": 34,
+    "piano_key": 14,
+    "note_name": "A#1/Bb1",
+    "frequency": 58.27
+  },
+  {
+    "midi": 33,
+    "piano_key": 13,
+    "note_name": "A1",
+    "frequency": 55
+  },
+  {
+    "midi": 32,
+    "piano_key": 12,
+    "note_name": "G#1/Ab1",
+    "frequency": 51.91
+  },
+  {
+    "midi": 31,
+    "piano_key": 11,
+    "note_name": "G1",
+    "frequency": 49
+  },
+  {
+    "midi": 30,
+    "piano_key": 10,
+    "note_name": "F#1/Gb1",
+    "frequency": 46.25
+  },
+  {
+    "midi": 29,
+    "piano_key": 9,
+    "note_name": "F1",
+    "frequency": 43.65
+  },
+  {
+    "midi": 28,
+    "piano_key": 8,
+    "note_name": "E1",
+    "frequency": 41.2
+  },
+  {
+    "midi": 27,
+    "piano_key": 7,
+    "note_name": "D#1/Eb1",
+    "frequency": 38.89
+  },
+  {
+    "midi": 26,
+    "piano_key": 6,
+    "note_name": "D1",
+    "frequency": 36.71
+  },
+  {
+    "midi": 25,
+    "piano_key": 5,
+    "note_name": "C#1/Db1",
+    "frequency": 34.65
+  },
+  {
+    "midi": 24,
+    "piano_key": 4,
+    "note_name": "C1",
+    "frequency": 32.7
+  },
+  {
+    "midi": 23,
+    "piano_key": 3,
+    "note_name": "B0",
+    "frequency": 30.87
+  },
+  {
+    "midi": 22,
+    "piano_key": 2,
+    "note_name": "A#0/Bb0",
+    "frequency": 29.14
+  },
+  {
+    "midi": 21,
+    "piano_key": 1,
+    "note_name": "A0",
+    "frequency": 27.5
+  }
+]
